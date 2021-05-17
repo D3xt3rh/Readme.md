@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@MOHAMMA37643588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="mohammad saalim" height="30" width="40" /></a>
+<a href="https://twitter.com/Mohammad Saalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="mohammad saalim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammad-saalim-519aa5185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-saalim-519aa5185" height="30" width="40" /></a>
 <a href="https://fb.com/mohammad saalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="mohammad saalim" height="30" width="40" /></a>
 <a href="https://instagram.com/@not.so.slim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="@not.so.slim" height="30" width="40" /></a>
