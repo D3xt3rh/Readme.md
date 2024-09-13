@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
 - 💬 Ask me about **AI and Network Engineering**
 
